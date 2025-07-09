@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"express": "^5.1.0",
+		"axios": "^1.10.0"
+	}
+}
